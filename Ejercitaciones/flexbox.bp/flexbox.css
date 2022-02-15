@@ -1,0 +1,15 @@
+body{
+    font-size: 30px;
+}
+
+.flex-content{
+    --tamaño:500px;
+    width:var(--tamaño);
+    /* height: var(--tamaño); */
+}
+
+.flex-item{
+    --tamaño:100px;
+    width: var(--tamaño);
+    height: var(--tamaño);
+}

@@ -1,0 +1,24 @@
+Alineación de columnas:
+
+Sintaxis:
+eje-modo-ubicación
+
+Eje:
+main axis--->justify
+cross axis--->align
+
+Modo:
+content--->ubicación
+items--->línea
+self--->individual
+
+Ubicación: 
+    Aling: start-->inicio
+       center-->centro
+       end-->fin
+
+    justify: start-->inicio
+        center-->centro
+        align-->final
+        between-->entre
+        around-->alrededor

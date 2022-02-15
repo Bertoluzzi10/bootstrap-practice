@@ -1,0 +1,15 @@
+.contenedor{
+    --tamaño:400px;
+    width:var(--tamaño);
+    height:var(--tamaño);
+}
+
+.caja{
+    --tamaño:180px;
+    width:var(--tamaño);
+    height:var(--tamaño);
+}
+
+.posicion{
+    bottom:40px;
+}

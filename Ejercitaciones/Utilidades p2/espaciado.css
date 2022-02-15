@@ -1,0 +1,7 @@
+.caja{
+    --tamaño: 150px;
+    height:var(--tamaño);
+    width:var(--tamaño);
+    border:10px ridge yellow;
+
+}

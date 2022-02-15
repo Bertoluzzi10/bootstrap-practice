@@ -1,0 +1,5 @@
+.contenedor{
+    --tamaño:300px;
+    width:var(--tamaño);
+    height: var(--tamaño);
+}
